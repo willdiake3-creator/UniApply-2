@@ -1,0 +1,253 @@
+{
+  "users": {
+    "diakeyves3@gmail.com": {
+      "profile": {
+        "firstName": "Wilthord-Yves",
+        "lastName": "Diake III",
+        "email": "diakeyves3@gmail.com",
+        "nationality": "Cameroonian",
+        "countryOfResidence": "Cameroon",
+        "phone": "686961916",
+        "highestDegree": "College Sophomore (2nd Year) - Transfer seeker",
+        "gpa": 2.85,
+        "gpaScale": 4,
+        "majorInterest": "nursing/engineering ",
+        "testScores": {},
+        "languages": [
+          "English/French/German",
+          "French",
+          "English",
+          "German"
+        ],
+        "emailTemplateSubject": "Inquiry regarding admission to {programName} at {universityName}",
+        "emailTemplateBody": "Dear Admissions Committee,\n\nMy name is {firstName} {lastName}, and I am writing to express my strong interest in the {programName} program at {universityName}.\n\nHaving completed my {highestDegree} with a GPA of {gpa}/{gpaScale}, I believe my background aligns well with the academic standards of your institution. I have uploaded my transcripts and passport records via the UniApply portal for your review.\n\nCould you please confirm the receipt of my application and let me know if there are any additional requirements or potential scholarship options available for international students?\n\nThank you for your time and consideration.\n\nWarm regards,\n{firstName} {lastName}\n{email}\n{phone}"
+      },
+      "documents": [
+        {
+          "id": "doc-1784492312326-660",
+          "name": "Transcript of record.pdf",
+          "docType": "Transcript",
+          "uploadedAt": "2026-07-19T20:18:32.329Z",
+          "fileSize": "3090.4 KB",
+          "status": "completed",
+          "isVerified": true,
+          "filePath": "/app/applet/uploads/doc-1784492312326-660-Transcript of record.pdf",
+          "mimeType": "application/pdf",
+          "extractedData": {
+            "name": "WILTHORD-YVES DIAKE III",
+            "gpa": null,
+            "gpaScale": 4,
+            "institution": "Ateneo de Davao University",
+            "skills": [
+              "Nursing",
+              "Community Health Nursing",
+              "Nutrition and Diet Therapy",
+              "Pharmacology",
+              "Health Assessment",
+              "Anatomy and Physiology",
+              "Biochemistry",
+              "Microbiology and Parasitology",
+              "Nursing Informatics"
+            ],
+            "languages": [],
+            "nationality": "Cameroon",
+            "passportNumber": null
+          }
+        },
+        {
+          "id": "doc-1784493944466-270",
+          "name": "Wilthord-Yves_Diake_III_CV.pdf",
+          "docType": "CV",
+          "uploadedAt": "2026-07-19T20:45:44.466Z",
+          "fileSize": "455.1 KB",
+          "status": "completed",
+          "isVerified": true,
+          "filePath": "/app/applet/uploads/doc-1784493944466-270-Wilthord-Yves_Diake_III_CV.pdf",
+          "mimeType": "application/pdf",
+          "extractedData": {
+            "name": "Wilthord-Yves Diake III",
+            "gpa": 2.85,
+            "gpaScale": 4,
+            "institution": "Ateneo de Davao University",
+            "skills": [
+              "Occupational Health & Safety Compliance",
+              "Risk Assessment & Hazard Analysis",
+              "Incident Investigation & Reporting",
+              "Environmental Impact Assessment",
+              "Emergency Response Planning",
+              "Analytical & Technical Skills",
+              "Data Analysis & Safety Metrics",
+              "Mathematics & Physics Application",
+              "AI Tools for Safety Monitoring",
+              "Nursing & Healthcare Knowledge"
+            ],
+            "languages": [
+              "French",
+              "English",
+              "German"
+            ],
+            "nationality": null,
+            "passportNumber": null
+          }
+        },
+        {
+          "id": "doc-1784494026835-581",
+          "name": "PASSPORT version legere.jpg",
+          "docType": "Passport",
+          "uploadedAt": "2026-07-19T20:47:06.835Z",
+          "fileSize": "128.0 KB",
+          "status": "completed",
+          "isVerified": true,
+          "filePath": "/app/applet/uploads/doc-1784494026835-581-PASSPORT version legere.jpg",
+          "mimeType": "image/jpeg",
+          "extractedData": {
+            "name": "DIAKE III WILTHORD-YVES",
+            "gpa": null,
+            "gpaScale": null,
+            "institution": null,
+            "skills": [],
+            "languages": [],
+            "nationality": "Cameroonian",
+            "passportNumber": "AA109655"
+          }
+        },
+        {
+          "id": "doc-1784494056578-898",
+          "name": "Statement of purpose.docx",
+          "docType": "Statement of Purpose",
+          "uploadedAt": "2026-07-19T20:47:36.579Z",
+          "fileSize": "11.0 KB",
+          "status": "completed",
+          "isVerified": true,
+          "filePath": "/app/applet/uploads/doc-1784494056578-898-Statement of purpose.docx",
+          "mimeType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+          "extractedData": {
+            "name": "Wilthord-Yves Diake III",
+            "gpa": 2.85,
+            "gpaScale": 4,
+            "institution": "Ateneo de Davao University",
+            "skills": [
+              "Nursing & Healthcare",
+              "App Creation",
+              "Website Design",
+              "Nursing Informatics",
+              "Mathematics & Physics",
+              "AI Tools"
+            ],
+            "languages": [
+              "English",
+              "French"
+            ]
+          }
+        }
+      ],
+      "applications": [],
+      "notifications": [
+        {
+          "id": "notif-1784494044654",
+          "title": "AI Analysis Complete: PASSPORT version legere.jpg",
+          "message": "Successfully analyzed your Passport with Gemini AI. Profile fields auto-populated.",
+          "type": "success",
+          "date": "2026-07-19T20:47:24.654Z",
+          "isRead": false
+        },
+        {
+          "id": "notif-1784493957821",
+          "title": "AI Analysis Complete: Wilthord-Yves_Diake_III_CV.pdf",
+          "message": "Successfully analyzed your CV with Gemini AI. Profile fields auto-populated.",
+          "type": "success",
+          "date": "2026-07-19T20:45:57.821Z",
+          "isRead": false
+        },
+        {
+          "id": "notif-1784492323389",
+          "title": "AI Analysis Complete: Transcript of record.pdf",
+          "message": "Successfully analyzed your Transcript with Gemini AI. Profile fields auto-populated.",
+          "type": "success",
+          "date": "2026-07-19T20:18:43.389Z",
+          "isRead": false
+        },
+        {
+          "id": "welcome-notif",
+          "title": "Welcome to UniApply EU!",
+          "message": "Link your Gmail account, upload your documents once, and apply to programs across all 27 EU countries with a single click.",
+          "type": "success",
+          "date": "2026-07-19T20:15:49.356Z",
+          "isRead": false
+        }
+      ],
+      "visas": []
+    }
+  },
+  "customPrograms": [
+    {
+      "id": "auto-prog-startup-sorbonne",
+      "universityName": "Sorbonne University",
+      "name": "Master in Quantum Information & Quantum Computing",
+      "degreeLevel": "Master",
+      "country": "France",
+      "city": "Paris",
+      "department": "Physics & Computer Science",
+      "durationMonths": 24,
+      "tuitionFee": 243,
+      "currency": "EUR",
+      "applicationDeadline": "2026-11-15",
+      "minGpa": 3.4,
+      "requiredDocuments": [
+        "Transcript",
+        "CV",
+        "Passport",
+        "Statement of Purpose"
+      ],
+      "description": "An international elite master in quantum algorithms, quantum cryptography, and hardware interfaces in partnership with CNRS Paris.",
+      "slug": "sorbonne-quantum-info",
+      "logo": "⚛️"
+    },
+    {
+      "id": "auto-prog-startup-warsaw",
+      "universityName": "University of Warsaw",
+      "name": "Master in Cognitive Science",
+      "degreeLevel": "Master",
+      "country": "Poland",
+      "city": "Warsaw",
+      "department": "Psychology & Informatics",
+      "durationMonths": 24,
+      "tuitionFee": 3000,
+      "currency": "EUR",
+      "applicationDeadline": "2026-10-30",
+      "minGpa": 3.1,
+      "requiredDocuments": [
+        "Transcript",
+        "CV",
+        "Passport"
+      ],
+      "description": "Focuses on computational modeling of cognitive processes, neural networks, language processing, and brain imaging analytics.",
+      "slug": "uw-cognitive-science",
+      "logo": "🧠"
+    }
+  ],
+  "customScholarships": [
+    {
+      "id": "auto-schol-startup-copernicus",
+      "name": "Copernicus Eastern Europe STEM Fellowship",
+      "awardType": "Full Ride",
+      "awardAmount": 18000,
+      "currency": "EUR",
+      "minGpa": 3.3,
+      "eligibleNationalities": [
+        "All"
+      ],
+      "eligibleDegreeLevels": [
+        "Master"
+      ],
+      "requiredDocuments": [
+        "Transcript",
+        "CV",
+        "Statement of Purpose"
+      ],
+      "applicationDeadline": "2026-10-15",
+      "description": "Provides complete living allowances, travel stipend, and fully waived tuition for outstanding international students pursuing STEM degrees in Poland.",
+      "country": "Poland"
+    }
+  ]
+}

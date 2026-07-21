@@ -1,0 +1,6 @@
+{
+  "name": "EasyUni",
+  "description": "AI-powered university admissions, document vaults, and single-click automated application pipelines across EU, North American, and Asian universities, integrated with real-time Gmail notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
